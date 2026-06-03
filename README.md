@@ -1,4 +1,5 @@
 # AI Social Media Content Planner — AIVONEX
+<img width="1369" height="644" alt="WhatsApp Image 2026-06-03 at 11 52 38 AM" src="https://github.com/user-attachments/assets/48c602d3-ba0f-4aa6-968a-3b1795905dd3" />
 
 ## Setup (3 steps)
 
